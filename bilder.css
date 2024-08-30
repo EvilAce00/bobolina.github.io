@@ -1,0 +1,72 @@
+body{
+    background-color: pink;
+}
+
+.tre{
+    border: 5px solid black;
+    border-radius: 10px;
+    position: absolute;
+    bottom: 20px;
+    left: 50px;
+}
+
+.fyra{
+    border: 5px solid black;
+    border-radius: 10px;
+    position: absolute;
+    bottom: 20px;
+    left: 200px;
+}
+
+.fem{
+    border: 5px solid black;
+    border-radius: 10px;
+    position: absolute;
+    bottom: 20px;
+    left: 350px;
+}
+
+.sex{
+    border: 5px solid black;
+    border-radius: 10px;
+    position: absolute;
+    bottom: 20px;
+    left: 500px;
+}
+
+.åtta{
+    border: 5px solid black;
+    border-radius: 10px;
+    position: absolute;
+    bottom: 20px;
+    left: 650px;
+}
+
+.nio{
+    border: 5px solid black;
+    border-radius: 10px;
+    position: absolute;
+    bottom: 20px;
+    left: 800px;
+}
+
+.tio{
+    border: 5px solid black;
+    border-radius: 10px;
+    position: absolute;
+    bottom: 20px;
+    left: 950px;
+}
+
+.elva{
+    border: 5px solid black;
+    border-radius: 10px;
+    position: absolute;
+    bottom: 20px;
+    left: 1100px;
+}
+
+h1{
+    text-align: center;
+    font-size: 100px;
+}
